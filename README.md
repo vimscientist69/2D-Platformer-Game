@@ -1,6 +1,6 @@
 # Simple Platformer Game
 
-[![Simple Platformer Game](https://img.shields.io/badge/Simple_Platformer_Game-purple)](https://oop-platformer-game-2nftpakni-williamferns1s-projects.vercel.app/)
+[![Simple Platformer Game](https://img.shields.io/badge/Simple_Platformer_Game-purple)](https://2d-platformer-game.williamferns.org/)
 ![Project Type](https://img.shields.io/badge/Project_Type:-Course_Project-orange)
 ![HTML,CSS](https://img.shields.io/badge/HTML-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-purple)
@@ -15,7 +15,7 @@ A simple platformer game, where you are a block. You can move around, and jump o
 2. Added in side detection logic for the platforms, so that when the player hits one of the sides, it stops moving, instead of glitching through it.
 3. Added detailed comments for each line of code, literally. I understood every single line of code that was written. By doing so, I actually learn how to solve problems, and how the code works, instead of falling into tutorial hell. That allowed me to fix the two bugs mentioned above.
 
-Feel free to check the <a href="https://oop-platformer-game-2nftpakni-williamferns1s-projects.vercel.app/" target="_blank">website/game</a> out, and give feedback on what I can improve if you like.
+Feel free to check the <a href="https://2d-platformer-game.williamferns.org/" target="_blank">website/game</a> out, and give feedback on what I can improve if you like.
 
 ## Technologies:
 1. HTML
@@ -36,22 +36,3 @@ If you really like the Platformer Game, and you see something you can improve, f
 
 ## License:
 This project is under the MIT license. Feel free to do whatever you want with it, I really don't care.
-
-## Conclusion:
-If you are someone that are looking to hire a developer, whether it is freelancing work, an internship, or a full time position, feel free to reach out to me with one of the following channels: 
-
-<ul>
-  <li>
-    <a target="_blank" href="mailto:business@williamferns.com">Email: business@williamferns.com</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://twitter.com/willfernsdev">Twitter: willfernsdev</a>  
-  </li>
-  <li>
-    <a target="_blank" href="https://www.linkedin.com/in/william-ferns-12670a2b6/">Linkedin</a>
-  <li>
-    <p>Discord: williamferns</p>
-  </li>
-</ul>
-
----
